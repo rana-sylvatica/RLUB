@@ -1,5 +1,4 @@
 # HTUB
- HTUB (HTangl USBC Breakout) - A USBC breakout for DIY rectangle controllers
 ![](https://raw.githubusercontent.com/HTangl/HTUB/main/Pictures/Model%202.png)  
 
 The HTUB is a USBC breakout board designed for DIY rectangle controllers to facilitate the use of both USBC to GC and USBC to USBA cables using a single port.    
