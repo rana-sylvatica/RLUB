@@ -12,6 +12,6 @@ I've also removed the TX- and RX- pins as they are generally not used for most D
 
 The mounting holes are for M3 screws and are 3.2mm in diameter.  
 
-If you're not sure how to order these I wrote a [guide](https://github.com/HTangl/Model-U) that explains how to get these fabricated by JLCPCB. The proccess is essentially the same for both the Model U and the HTUB with the one exception being you **must use 0.8mm board thickness**. If you order these with the standard 1.6 board thickness JLC will not be able to manufacture them.  
+If you're not sure how to order these I wrote a [guide](https://github.com/HTangl/Model-U) that explains how to get these fabricated by JLCPCB. The proccess is essentially the same for both the Model U and the HTUB with the one exception being you **MUST USE 0.8mm BOARD THICKNESS**. If you order these with the standard 1.6 board thickness JLC will not be able to manufacture them.  
 
 ![](https://raw.githubusercontent.com/HTangl/HTUB/main/Pictures/Panel%208.png)
