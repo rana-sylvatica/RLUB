@@ -1,5 +1,0 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-D1,MBR120,D_SOD-123,43,-50,0,top
-R1,5.1k,R_0603_1608Metric,38,-47,180,top
-R2,5.1k,R_0603_1608Metric,42,-47,0,top
-U1,USB_C_Receptacle,Xunpu C2856665 USBC Straddle Mount,40,-40,90,top
