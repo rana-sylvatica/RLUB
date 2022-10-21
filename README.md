@@ -1,9 +1,9 @@
-# HTUB
+# RLUB
 ![](https://raw.githubusercontent.com/HTangl/HTUB/main/Pictures/Model%202.png)  
 
-The HTUB is a USBC breakout board designed for DIY rectangle controllers to facilitate the use of both USBC to GC and USBC to USBA cables using a single port.    
+The RULUB is a USBC breakout board designed for DIY rectangle controllers to facilitate the use of both USBC to GC and USBC to USBA cables using a single port.    
 
-It is based on the design of the [Model U](https://github.com/Crane1195/Model-U/tree/main) made by [Crane](https://github.com/Crane1195) but differs in several ways.  
+It is a derivation of the [HTUB](https://github.com/HTangl/HTUB) design made by [Hadoe](https://github.com/HTangl/) which in turn is based on the design of the [Model U](https://github.com/Crane1195/Model-U/tree/main) made by [Crane](https://github.com/Crane1195). 
 
 I added a MBR120 diode to the board along with a dedicated VSYS pin so you do not need to wire in a diode if you are using a Raspberry Pi Pico as your microcontroller. Simply wire the VSYS pin on the HTUB directly to the VSYS pin on the Pico.  
 
