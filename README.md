@@ -1,7 +1,7 @@
 # RLUB
 ![](https://raw.githubusercontent.com/HTangl/HTUB/main/Pictures/Model%202.png)  
 
-The RULUB is a USBC breakout board designed for DIY rectangle controllers to facilitate the use of both USBC to GC and USBC to USBA cables using a single port.    
+The RLUB is a USBC breakout board designed for DIY rectangle controllers to facilitate the use of both USBC to GC and USBC to USBA cables using a single port.    
 
 It is a derivation of the [HTUB](https://github.com/HTangl/HTUB) design made by [Hadoe](https://github.com/HTangl/) which in turn is based on the design of the [Model U](https://github.com/Crane1195/Model-U/tree/main) made by [Crane](https://github.com/Crane1195). 
 
