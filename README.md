@@ -25,6 +25,6 @@ If you're not sure how to order these, Hadoe wrote a [guide](https://github.com/
 
 Other notes:
 
-These files were panelized with [KiKit](https://github.com/yaqwsx/KiKit)
+- These files were panelized with [KiKit](https://github.com/yaqwsx/KiKit)
 
-The USB port component is often out of stock on JLC.  However, it can be pre-ordered for a relatively low price, with a few weeks of lead time.
+- The USB port component is often out of stock on JLC.  However, it can be pre-ordered for a relatively low price, with a few weeks of lead time.
