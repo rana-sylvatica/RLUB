@@ -18,6 +18,7 @@ The RLUB modifies the HTUB design by putting all the pins in a single row which 
 
 If you're not sure how to order these, Hadoe wrote a [guide](https://github.com/HTangl/Model-U) that explains how to get these fabricated by JLCPCB. The proccess is essentially the same for both the Model U and the RLUB with the one exception being you **MUST USE 0.8mm BOARD THICKNESS**. If you order these with the standard 1.6 board thickness JLC will not be able to manufacture them.  
 
+This repo contains Gerber, BOM, and CPL files as well as the KiCad project files for a panel of 12 RLUB boards.
 
 ![image](https://user-images.githubusercontent.com/95242582/197304992-0854b75f-0698-448e-8b3d-817bd7dc62ad.png)
 
