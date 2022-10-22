@@ -22,7 +22,6 @@ This repo contains Gerber, BOM, and CPL files as well as the KiCad project files
 
 ![image](https://user-images.githubusercontent.com/95242582/197304992-0854b75f-0698-448e-8b3d-817bd7dc62ad.png)
 
-![image](https://user-images.githubusercontent.com/95242582/197304977-9b35634a-77ec-46a5-99ac-824032f6fe27.png)
 
 Other notes:
 
